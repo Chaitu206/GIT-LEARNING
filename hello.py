@@ -1,2 +1,1 @@
-print("Git push and pull!")
-
+print("This change is only on practice!")
