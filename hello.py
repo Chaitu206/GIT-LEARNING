@@ -1,1 +1,1 @@
-print("This change is only on practice!")
+print("Hello from MAIN!")
